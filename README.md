@@ -21,9 +21,9 @@ Sistema de autenticação backend construído com **Node.js**, **Express** e **T
 ```bash
 auth-backend/
 ├── src/
-│   ├── server.ts        # Ponto de entrada do servidor
-│   └── ...              # Outras pastas e arquivos (routes, controllers, middlewares, etc.)
-├── dist/                # Arquivos compilados (gerados pelo TypeScript)
+│   ├── server.ts  
+│   └── ...   
+├── dist/                
 ├── package.json
 ├── tsconfig.json
 └── README.md
