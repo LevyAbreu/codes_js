@@ -25,5 +25,4 @@ auth-backend/
 │   └── ...   
 ├── dist/                
 ├── package.json
-├── tsconfig.json
-└── README.md
+└── tsconfig.json
